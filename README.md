@@ -6,7 +6,7 @@ Check out my [YouTube](https://www.youtube.com/c/PowerTipDados) channel and my o
 
  <a href="https://www.linkedin.com/in/brenovalinhas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
-  <a href="https://www.youtube.com/channel/UCJQJ0V0k63n6YBdFMQ-N6gw" target="_blank"><img src=" https://img.shields.io/youtube/channel/subscribers/UCJQJ0V0k63n6YBdFMQ-N6gw?style=social" target="_blank"></a>   
+  <a href="https://www.youtube.com/channel/UCJQJ0V0k63n6YBdFMQ-N6gw" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCJQJ0V0k63n6YBdFMQ-N6gw?style=social" target="_blank"></a>   
  
 
  
